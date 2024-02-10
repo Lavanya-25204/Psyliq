@@ -1,4 +1,4 @@
 # Psyliq
-   *Employee data analysis
-   *Diabetes Prediction analysis
-   *HR data analysis
+    *Employee data analysis
+    *Diabetes Prediction analysis
+    *HR data analysis
